@@ -7,7 +7,7 @@
 
 - 🥼 I'm currently in my second Scientific Iniciation as a CNPq scholarship holder
 - 🥼 CNPq scholarship holder in a Scientific Iniciation: "Desenvolvimento de Equipamentos Médicos com Integração IoT" (09/23 - 08/24)
-- If you want to know more about me and my carrer, give me a message in my email: ricardo.r.carvalho2001@gmail.com
+- If you want to know more about me and my career, give me a message in my email: ricardo.r.carvalho2001@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
