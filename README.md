@@ -5,9 +5,9 @@
 
 ##
 
-- 🥼 I'm currently in my second Scientific Iniciation as a CNPq scholarship holder
-- 🥼 CNPq scholarship holder in a Scientific Iniciation: "Desenvolvimento de Equipamentos Médicos com Integração IoT" (09/23 - 08/24)
-- If you want to know more about me and my career, give me a message in my email: ricardo.r.carvalho2001@gmail.com
+- 🥼 CEFET Undergraduate Research Fellow – “Development of Medical Equipment with IoT Integration” (09/23 – 08/24)
+- 🥼 CEFET Undergraduate Research Fellow – “Cybersecurity: Education on Cybersecurity for Technological Devices” (09/24 – 08/25)
+- If you want to know more about me and my career, feel free to email me at: ricardo.r.carvalho2001@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ricardo-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
