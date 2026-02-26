@@ -1,6 +1,6 @@
 ### Hi guys 👋 I am Ricardo Ribeiro!
 
-- 🌱 I'm currently a Backend Developer Intern
+- 🌱 I'm currently a Junior Backend Developer
 - 😄 Pronouns: He/Him
 
 ##
